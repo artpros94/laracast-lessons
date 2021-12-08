@@ -14,3 +14,6 @@ article + article {
 article {
     padding-top: 2rem;
 }
+.bColor {
+    background-color: rgb(225, 202, 202);
+}
